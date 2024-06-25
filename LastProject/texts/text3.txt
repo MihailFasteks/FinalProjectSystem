@@ -1,0 +1,2 @@
+When setting up an account for a new service, the creation of a strong and secure secret is paramount.
+

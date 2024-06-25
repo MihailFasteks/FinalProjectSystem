@@ -1,0 +1,26 @@
+File Name: text1.txt
+File Path: C:\Users\Admin\source\repos\LastProject\LastProject\texts\text1.txt
+File Size: 39 bytes
+Amount of words: 0 words
+
+File Name: text2.txt
+File Path: C:\Users\Admin\source\repos\LastProject\LastProject\texts\text2.txt
+File Size: 62 bytes
+Amount of words: 0 words
+
+File Name: text3.txt
+File Path: C:\Users\Admin\source\repos\LastProject\LastProject\texts\text3.txt
+File Size: 106 bytes
+Amount of words: 0 words
+
+File Name: text4.txt
+File Path: C:\Users\Admin\source\repos\LastProject\LastProject\texts\text4.txt
+File Size: 28 bytes
+Amount of words: 0 words
+
+File Name: text5.txt
+File Path: C:\Users\Admin\source\repos\LastProject\LastProject\texts\text5.txt
+File Size: 15 bytes
+Amount of words: 0 words
+
+Most Popular Words:
